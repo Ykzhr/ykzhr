@@ -1,8 +1,5 @@
-<p align="center">死去</p>
-
-
 <div align="center">
-  <img height="100" src="https://i.pinimg.com/736x/c1/a8/00/c1a8007beb05160e8bf4baf96259a19e.jpg"  />
+  <img height="80" src="https://i.pinimg.com/736x/c1/a8/00/c1a8007beb05160e8bf4baf96259a19e.jpg"  />
 </div>
 
 ###
@@ -14,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="459" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Rmdmc1ZjVjZ2x0YXV4N3FxbTBweDltdzkzcTRtbXh3MXZ3dTQ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif"  />
+  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Rmdmc1ZjVjZ2x0YXV4N3FxbTBweDltdzkzcTRtbXh3MXZ3dTQ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D9aSh4ymC0l7fCVLtg/giphy.gif"  />
 </div>
 
 ###
