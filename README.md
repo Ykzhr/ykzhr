@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="80" src="https://i.pinimg.com/736x/c1/a8/00/c1a8007beb05160e8bf4baf96259a19e.jpg"  />
-</div>
+<h2 align="center">死</h2>
 
 ###
 
@@ -27,3 +25,4 @@
 </div>
 
 ###
+
