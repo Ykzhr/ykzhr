@@ -1,13 +1,33 @@
 <p align="center">死去</p>
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/4c/bf/8a/4cbf8a5c95a08391aba17865ff6081be.jpg"  />
+  <img src="https://count.getloli.com/@:Ykzhr?theme=gelbooru-h&padding=4&offset=2&scale=0.5&align=bottom&pixelated=1&darkmode=0"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXo0ZTY0Y2s3OGUwdjM5eng4ZXdpbjcwNWRidHp1ZGI2cjB3bndheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p3fc8pEjsoGC4/giphy.gif"  />
+  <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE4MmlsajlxMTRlM3c3M251MmpodjVtZ2NzZWJtZ2dlMjgxMGhxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3UBd63oVlQLC/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlnYWd0ZjFqZWx5Z25vajJlbzJwemNvYXRhMG8ya2RzdmRqMDk5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/41C55ZzL8M00frDXEM/giphy.gif"  />
+</div>
+
+###
+
+<img align="right" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE4MmlsajlxMTRlM3c3M251MmpodjVtZ2NzZWJtZ2dlMjgxMGhxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3UBd63oVlQLC/giphy.gif"  />
+
+###
+
+<img align="left" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE4MmlsajlxMTRlM3c3M251MmpodjVtZ2NzZWJtZ2dlMjgxMGhxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n3UBd63oVlQLC/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img height="100" src="https://i.pinimg.com/736x/c1/a8/00/c1a8007beb05160e8bf4baf96259a19e.jpg"  />
 </div>
 
 ###
